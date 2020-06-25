@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="width:300px" src="https://ik.imagekit.io/danilovieira/pwalogo_urW1bHr_3.png"/>
+  <img width="300px" height="100px" src="https://ik.imagekit.io/danilovieira/pwalogo_urW1bHr_3.png"/>
 </h1>
 
 ## 📝 About
@@ -14,9 +14,9 @@ This project is a simple schema of how to make a PWA application with Expo CLI.
 
 ## 📱 Screens
 
-<div style="display: flex; max-width: 200px">
-  <img src="https://ik.imagekit.io/danilovieira/screen1_hreAxtuft.jpg" style="margin-right: 20px" />
-  <img src="https://ik.imagekit.io/danilovieira/screen2_SWph5A4lm.jpg" />
+<div style="display:flex; justify-content: space-between">
+  <img width="300" src="https://ik.imagekit.io/danilovieira/screen1_hreAxtuft.jpg" />
+  <img width="300" src="https://ik.imagekit.io/danilovieira/screen2_SWph5A4lm.jpg" />
 </div>
 
 There are two screens to make a simple navigation.
